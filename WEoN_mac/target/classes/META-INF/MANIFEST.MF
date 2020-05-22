@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.cytoscape.sample-create-network
+Bundle-Name: WEoN - Weighted EpigenOmic Networks
+Bundle-Version: 1.0
+Built-By: scontreras
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1590181455642
+Bundle-Activator: org.cytoscape.sample.internal.CyActivator
+Import-Package: javax.swing,javax.swing.border,org.cytoscape.model;ver
+ sion="[3.0,4)",org.cytoscape.service.util;version="[3.0,4)",org.cytos
+ cape.session;version="[3.0,4)",org.cytoscape.work;version="[3.0,4)",o
+ rg.osgi.framework;version="[1.5,2)"
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Build-Jdk: 1.8.0_252
+
